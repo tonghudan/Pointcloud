@@ -62,3 +62,7 @@ packages/
 
 #Test files
 *.testsettings
+.vs/PointCloud/v15/Server/sqlite3/storage.ide-wal
+.vs/PointCloud/v15/Server/sqlite3/storage.ide-shm
+.vs/PointCloud/v15/Server/sqlite3/storage.ide
+.vs/PointCloud/v15/Server/sqlite3/db.lock
